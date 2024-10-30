@@ -20,3 +20,6 @@ llm:
 step 4. cd ./MetaGPT-main/examples/clinic
 
 step 5. python MAgent.py
+
+Model_download_url:xxx
+Dataset_download_url: xxx
