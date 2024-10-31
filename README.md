@@ -1,6 +1,14 @@
 # MAIDS
 ![Image](./MIMIC-Ext-EMD_v9.pdf)
 ![pdf](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
+
+<p align="center">
+    <img src="https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf" width="400"/>
+<p>
+
+  <p align="center">
+    <img src="./MIMIC-Ext-EMD_v9.pdf" width="400"/>
+<p>
 ## 1. Environment setting
 ```
 step 1.
