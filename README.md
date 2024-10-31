@@ -1,7 +1,7 @@
 # MAIDS
 ![alt text](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
 ## 1. Environment setting
-
+```
 step 1.
 pip install --upgrade metagpt
 
@@ -17,15 +17,18 @@ llm:
   base_url: "your_url"
   api_key: 'your_key'
   model: "openai"
+```
 
 ## 2. Inference
+```
 step 1. cd ./MetaGPT-main/examples/clinic
 
 step 2. python MAgent.py
-
+```
+```
 Model_download_url:xxx
 Dataset_download_url: xxx
-
+```
 ## Citation
 
 To cite [MAIDS](XXX) in publications, please use the following BibTeX entries.
