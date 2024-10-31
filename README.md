@@ -1,5 +1,6 @@
 # MAIDS
-inference：
+![alt text](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
+## 1. Environment setting
 
 step 1.
 pip install --upgrade metagpt
@@ -17,9 +18,10 @@ llm:
   api_key: 'your_key'
   model: "openai"
 
-step 4. cd ./MetaGPT-main/examples/clinic
+## 2. Inference
+step 1. cd ./MetaGPT-main/examples/clinic
 
-step 5. python MAgent.py
+step 2. python MAgent.py
 
 Model_download_url:xxx
 Dataset_download_url: xxx
