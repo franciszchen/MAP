@@ -1,5 +1,6 @@
 # MAIDS
-![alt text](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
+![](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
+![pdf](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
 ## 1. Environment setting
 ```
 step 1.
@@ -25,6 +26,7 @@ step 1. cd ./MetaGPT-main/examples/clinic
 
 step 2. python MAgent.py
 ```
+## 3. Download
 ```
 Model_download_url:xxx
 Dataset_download_url: xxx
