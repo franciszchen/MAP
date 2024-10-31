@@ -1,5 +1,5 @@
 # MAIDS
-![alt text](./MIMIC-Ext-EMD_v9.pdf)
+![Image](./MIMIC-Ext-EMD_v9.pdf)
 ![pdf](https://github.com/franciszchen/MAIDS/blob/main/MIMIC-Ext-EMD_v9.pdf)
 ## 1. Environment setting
 ```
