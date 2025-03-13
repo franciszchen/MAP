@@ -1,4 +1,4 @@
-# MAIDS
+# MAP
 ![Image](https://github.com/franciszchen/MAIDS/blob/main/framework.png)
 
 ## 1. Environment setting
