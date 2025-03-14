@@ -31,11 +31,5 @@ step 2. python MAgent.py
 Model_download_url:xxx
 Dataset_download_url: xxx
 ```
-% ## Citation
 
-% To cite [MAIDS](XXX) in publications, please use the following BibTeX entries.
-
-% ```bibtex
-
-% ```
 
