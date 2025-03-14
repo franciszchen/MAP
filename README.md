@@ -1,5 +1,5 @@
 # MAP
-![Image](https://github.com/franciszchen/MAIDS/blob/main/framework.png)
+![Image](https://github.com/franciszchen/MAP/blob/main/fig/MAP_framework_v17.jpg)
 
 ## 1. Environment setting
 ```
