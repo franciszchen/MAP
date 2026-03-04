@@ -1,0 +1,2 @@
+Patient has fever and cough
+Patient feels shortness of breath

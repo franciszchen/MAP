@@ -1,0 +1,10 @@
+#!/usr/bin/expect -f
+set timeout 30
+set host [lindex $argv 0]
+set port [lindex $argv 1]
+set password [lindex $argv 2]
+
+spawn ssh -o StrictHostKeyChecking=no -o ServerAliveInterval=60 -CNg -L 6006:127.0.0.1:6006 root@$host -p $port
+expect "password:"
+send "$password\r"
+expect eof
